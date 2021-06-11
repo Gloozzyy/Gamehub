@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/fusiongreg/BoltsHubV3/main/BoltsHubv3"),true))()
